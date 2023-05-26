@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082342682139",
+    "project_id": "soleassolarerp",
+    "storage_bucket": "soleassolarerp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082342682139:android:188a7389ffa3102bff52be",
+        "android_client_info": {
+          "package_name": "com.soleassolar.sharvayainfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082342682139-94euonkvpsioom4t4oh0o0s1u076dedc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-zHCtW30PyDmjRrDdPlPJ1W8NeSqJg24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082342682139-94euonkvpsioom4t4oh0o0s1u076dedc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
